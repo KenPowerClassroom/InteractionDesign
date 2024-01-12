@@ -123,10 +123,6 @@ Here are a few examples:
 
 ---
 
-![mechanics](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/6c52683b-cbbf-48b1-960b-958ac42542b5)
-
----
-
 ![a018a034f43ad061c3eaf6a9ca18c5e9](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/42feaac8-ae6e-4e1b-aa33-2d3870c4c430)
 ![1d351056e885fa8abf53b17d8d23c4a9](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/9a61d7d0-bd72-4ca6-b553-a180c01095ee)
 
