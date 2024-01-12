@@ -87,9 +87,11 @@ Because the action is disembodied, it is likely to correspond to a keyboard or m
 Draw the effect of the action
 This is generally a second scene, indicated how the game interface has changed once the action was selected. Again, only focus on the relevant elements.
 
-As a general rule, this process means that each action is a pair of scenes. For example, below we have two pairs of actions for Pokemon Blue. The picture on the left shows the action and the picture on the right shows the result.
+As a general rule, this process means that each action is a pair of scenes. For example, below we have two pairs of actions for Pokemon Blue. The picture on the** left shows the action and the picture on the right shows the result**.
 
-https://www.cs.cornell.edu/courses/cs3152/2022sp/labs/design1/disembodied-pokemon.png
+In the examples below, the top pair of frames show a menu navigation(disembodies action), and the bottom pair shows controling the avatar (embodied)
+
+![image](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/b9e3427d-650a-4f8c-b30d-963fb295fcfb)
 
 ### Storyboarding Embodied Action
 
@@ -97,7 +99,11 @@ The key thing to storyboarding a character is to illustrate its action as it com
 
 Show player progress in a single scene using movement lines. The style works well for small, compact challenges. It is also good for illustrating when a player has multiple ways of solving a puzzle.
 
-https://www.cs.cornell.edu/courses/cs3152/2022sp/labs/design1/extracredit.png
+![image](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/e47ec006-757d-4be1-993b-db751834cd5f)
+
+# Example storyboards
+
+Storyboards vary a lot in style and level of detail. How you draw a storyboard depends on your audience and the ideas you are trying to covey
 
 [^1]: Adapted from https://www.cs.cornell.edu/courses/cs3152/2022sp/labs/design1/
 [^2]: Adapted from https://www.cs.cornell.edu/courses/cs3152/2022sp/lectures/lecture3/slides-3.pdf
