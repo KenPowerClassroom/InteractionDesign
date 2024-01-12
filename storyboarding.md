@@ -106,17 +106,21 @@ Show player progress in a single scene using movement lines. The style works wel
 Storyboards vary a lot in style and level of detail. How you draw a storyboard depends on your audience and the ideas you are trying to covey.
 
 Here are a few examples:
+
 ![sonic-storyboard-sketch1-e1542712009245](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/c0855635-3fb1-4762-8340-07d5c6d0d502)
+---
 ![online-ordering-food-app-storyboard](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/b1831917-f68e-47f2-9578-779140d1f8f5)
+---
 ![multipanel-bastion](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/f47c021a-3b06-4d62-8626-7a592c98d455)
 ![mooncat](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/1935db42-49ef-415b-be71-16e592cc04a1)
 ![mechanics](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/6c52683b-cbbf-48b1-960b-958ac42542b5)
 ![a018a034f43ad061c3eaf6a9ca18c5e9](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/42feaac8-ae6e-4e1b-aa33-2d3870c4c430)
 ![50718599326_56407ab53c_o](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/f205d614-3fa5-4ca6-b21e-e8877fbb09c9)
+![1d351056e885fa8abf53b17d8d23c4a9](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/9a61d7d0-bd72-4ca6-b553-a180c01095ee)
 ![552_01](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/9c64950d-5f10-463c-937e-3929eefc71b5)
 ![9af523e59b8ba250c6acd9d8f235cd76](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/d78de6a6-4a2f-4a55-b9cc-3e2e99795bd9)
 ![2a8a274f61c442e0508ee82d52e59675](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/d7a05bbe-6e66-4109-b27b-3eb0e321c9f5)
-![1d351056e885fa8abf53b17d8d23c4a9](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/9a61d7d0-bd72-4ca6-b553-a180c01095ee)
+
 
 
 [^1]: Adapted from https://www.cs.cornell.edu/courses/cs3152/2022sp/labs/design1/
