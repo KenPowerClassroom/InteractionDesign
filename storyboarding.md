@@ -22,6 +22,8 @@ There are a lot of conventions about the proper way to draw a storyboard, though
 
 When you storyboard for a game, you want to indicate what the player can do. And the primary thing that the player can do is to control the character (or other game elements). While the player has some control over the camera, this is usually implicit in the control of the character (and not independent of the characters, as in film). Furthermore, the player generally has no control over the scene itself. Therefore the techniques that you use for storyboarding depend on the actions present in your game.
 
+[StoryBoarding in Games (4 min video)](https://www.youtube.com/watch?v=iZFC8unWgtQ)
+
 ### Aspects of game to capture in a storyboard [^2]
 
 - Players: How do humans affect the game?
