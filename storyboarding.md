@@ -112,6 +112,8 @@ Storyboards vary a lot in style and level of detail. How you draw a storyboard d
 
 Here are a few examples:
 
+![app storyboard](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ZG0dU2XXx8aq-SInU6r21w.png)
+
 ![sonic-storyboard-sketch1-e1542712009245](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/c0855635-3fb1-4762-8340-07d5c6d0d502)
 
 ---
