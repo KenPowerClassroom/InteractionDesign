@@ -150,7 +150,9 @@ Here are a few examples:
 
 ![2a8a274f61c442e0508ee82d52e59675](https://github.com/KenPowerClassroom/InteractionDesign/assets/105429/d7a05bbe-6e66-4109-b27b-3eb0e321c9f5)
 
+### Further reading
 
+[Game Storyboarding | Crafting the Narrative of Video Games](https://polydin.com/game-storyboarding/)
 
 [^1]: Adapted from https://www.cs.cornell.edu/courses/cs3152/2022sp/labs/design1/
 [^2]: Adapted from https://www.cs.cornell.edu/courses/cs3152/2022sp/lectures/lecture3/slides-3.pdf
