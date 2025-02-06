@@ -78,7 +78,10 @@ When you storyboard for a game, you want to indicate what the player can do. And
 
 ### Storyboarding Disembodied Action
 
-Not all player activity has to be attached to a character. In real-time-strategy games, the player is spending a lot of time clicking on menus and buttons. Even RPGs, which are very character focused, have player modes (such as the “paper doll mode”) that have a lot of disembodied action.
+Not all player activity has to be attached to a character. In real-time-strategy games, the player is spending a lot of time clicking on menus and buttons. 
+Even RPGs, which are very character focused, have player modes (such as the “paper doll mode”) that have a lot of disembodied action.
+
+![image](https://www.diablowiki.net/images/1/12/Inv-aug-2010.jpg)
 
 Draw the initial scene
 The initial scene can be the entirety of the computer screen, but it does not have to be. You can zoom in just the part of the screen that matters. However, your scene should focus on both the relevant UI element (menu, button, switch, etc.) and the part of the scene that may change (e.g. where new game elements might spawn).
